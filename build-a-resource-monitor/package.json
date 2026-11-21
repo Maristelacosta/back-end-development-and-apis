@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {},
   "dependencies": {
-    "ws": "^8.18.2"
+    "ws": "^8.21.0"
   },
   "keywords": ["node", "freecodecamp"],
   "license": "MIT",
